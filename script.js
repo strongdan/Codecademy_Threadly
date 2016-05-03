@@ -11,8 +11,8 @@ var main = function() {
         }
 
         return false;
-
     });
+
 }
 
 $(document).ready(main);
